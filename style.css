@@ -56,7 +56,10 @@ nav {
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 15px;
     margin-top: 5px;
-
+    background-image: url(./new\ backgroud.jpg);
+    background-size: cover;
+    background-position:bottom;
+    background-repeat: no-repeat;
 }
 
 .logo>img {
@@ -139,7 +142,7 @@ nav {
     text-transform:capitalize;
     position: absolute;
     bottom: 62%;
-    right: 15%;
+    right: 11%;
     font-family: "morgenta";
     letter-spacing: 1px;
 }
