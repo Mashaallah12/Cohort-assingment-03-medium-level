@@ -31,7 +31,7 @@ This assignment focuses on creating clean layouts, modern styling, and responsiv
 
 ## 📷 Preview
 
-![Project Preview](_D__Cohort-Assignment-Html+css_Assingment03-medium_index.html.png)
+![Project Preview](screensort.png)
 
 ---
 
